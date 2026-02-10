@@ -51,3 +51,12 @@ Ensure the device BIOS/UEFI is up to date (OEM firmware must support the 2023 CA
 Ensure Secure Boot is actually enabled on the hardware.
 
 Check the UEFICA2023Status registry key for deployment progress.
+
+License
+This project is licensed under the MIT License.
+
+
+---
+
+### Next Step
+Since you are using this to track your own fleet's progress, **would you like me to help you draft the `DetectSecureBoot2023.ps1` and `SecureBoot2023.json` files as separate blocks so you can easily copy and save them?**

@@ -59,4 +59,4 @@ This project is licensed under the MIT License.
 ---
 
 ### Next Step
-Since you are using this to track your own fleet's progress, **would you like me to help you draft the `DetectSecureBoot2023.ps1` and `SecureBoot2023.json` files as separate blocks so you can easily copy and save them?**
+Since you are using this to track your own fleet's progress.

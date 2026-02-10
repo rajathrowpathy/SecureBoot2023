@@ -57,6 +57,3 @@ This project is licensed under the MIT License.
 
 
 ---
-
-### Next Step
-Since you are using this to track your own fleet's progress.
